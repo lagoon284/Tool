@@ -1,2 +1,11 @@
-내용 변경
-안함
+1. 깃 배쉬 다운로드
+2. 로컬파일 지정 ex - cd c:(경로)
+3. git config --global user.name "lagoon284"
+4. git config --global user.email "lagoon284@naver.com"
+5. git init
+6. git branch add (origin)- 확실치 않음 https://github.com/lagoon284/Tool.git
+
+명령어 -  git add [파일이름]
+	git commit -m "[설명]"
+	git push origin master / git pull origin master
+	
